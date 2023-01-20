@@ -1,9 +1,4 @@
 # Bot-Dashboard
-Tutorial Site com Dashboard para bot Discord
-
-**Tutorial YouTube**: 
-
-<img src="https://media.discordapp.net/attachments/829462283553210378/856352058609369148/unknown-2.png">
 
 <h3>LIB'S USADAS</h3>
 • EXPRESS
@@ -64,7 +59,3 @@ app.get('/', (request, response) => {
 	"port": 53134
 } 
 ```
-
-
-<h2>CREDITOS</h2>
-• Gusttavo Dev
